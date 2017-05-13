@@ -1,0 +1,20 @@
+.logo-moje {
+	width: 40px;
+}
+
+.zielona-moje {
+	background-color: lime;
+}
+
+.smiling-face {
+	width: 100%;
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.footer {
+	text-align: center;
+}
+
